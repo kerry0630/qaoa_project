@@ -1,0 +1,5 @@
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+# 選配：僅 scripts/crosscheck_qiskit.py 需要
+# qiskit>=1.0
